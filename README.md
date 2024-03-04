@@ -4,7 +4,7 @@ I'm a self-motivated developer looking to take on challenges in the digital worl
 #
 🚀 I'm currently working on proxification software to optimise network routing and reduce packet latency.  
 🌱 I'm currently learning TypeScript & Rust.    
-👬 I'm looking to collaborate on any projects with a preference towards .NET & Rust.
+👬 I'm looking to collaborate on any projects with a preference towards .NET & Rust.  
 📘 I'm self-taught and looking for employment. 
 
 ![Ryan's Github Stats](https://github-readme-stats.vercel.app/api?username=ryandotnet&show_icons=true&theme=dracula)
