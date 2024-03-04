@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a self-motivated developer looking to take on challenges in the digital world. Critical thinking and problem solving drive my passion to code and the learning process deems the most rewarding part of my journey. I'm currently in my exploratory programming phase, seeking to levarage my development skills in the tech industry.
+I'm a self-motivated developer looking to take on challenges in the digital world. Critical thinking and problem solving drive my passion to code and the learning process deems the most rewarding part of my journey. I'm currently in my exploratory programming phase, but am constantly seeking to absorb and leverage my development skills in the tech industry.
 
-🌱 Currently learning TypeScript & Rust
+🚀 Working on proxification software to optimise network routing and reduce packet latency  
+🌱 Currently learning TypeScript & Rust  
+👬 Looking to collaborate on any projects with a preference towards .NET & Rust
+
 
