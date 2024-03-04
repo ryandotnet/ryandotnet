@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ryan!
+#👋 Hello, I'm Ryan!
 
 I'm a self-motivated developer looking to take on challenges in the digital world. Critical thinking and problem solving drive my passion to code and the learning process deems the most rewarding part of my journey. I'm currently in my exploratory programming phase, but am constantly seeking to absorb and leverage my development skills in the tech industry.
 #
@@ -8,7 +8,7 @@ I'm a self-motivated developer looking to take on challenges in the digital worl
 📘 I'm self-taught and looking for employment. 
 
 ![Ryan's Github Stats](https://github-readme-stats.vercel.app/api?username=ryandotnet&show_icons=true&theme=dracula)
-# 💻 Tech Stack
+#💻 Tech Stack
 <img align="left" alt="C#" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"/>
 <img align="left" alt="C#" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>
 <img align="left" alt="C#" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"/>
