@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 Working on proxification software to optimise network routing and reduce packet latency  
-🌱 Currently learning TypeScript & Rust  
-👬 Looking to collaborate on any projects with a preference towards .NET & Rust
+🚀 I'm currently working on proxification software to optimise network routing and reduce packet latency.  
+🌱 I'm currently learning TypeScript & Rust.    
+👬 I'm looking to collaborate on any projects with a preference towards .NET & Rust.    
 
 
