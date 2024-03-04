@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Ryan! 👋
 
 <!--
 **ryandotnet/ryandotnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a self-motivated developer looking to take on challenges in the digital world. Critical thinking and problem solving drive my passion to code and the learning process deems the most rewarding part of my journey. I'm currently in my exploratory programming phase, seeking to levarage my development skills in the tech industry.
+
+🌱 Currently learning TypeScript & Rust
+
