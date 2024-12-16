@@ -5,7 +5,7 @@ I'm a self-motivated developer looking to take on challenges in the digital worl
 * 🚀 I'm currently working on an Electricity Market, Trader & Analyst [Dashboard](https://menu-tropic.bnr.la/home) written in React with an API back-end written in Rust.  
 * 🌱 I'm currently learning Svelte.    
 * 👬 I'm looking to collaborate on any projects with a preference towards React, Svelte, .NET & Rust.  
-* 📘 I'm self-taught and currently working for AGL Perth Energy.
+* 📘 I'm self-taught and seeking employment.
 
 # 💻 Tech Stack
   
